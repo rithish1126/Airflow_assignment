@@ -1,4 +1,6 @@
 # Dhruv's approach
+https://github.com/ds-cr/airflowAssgn/tree/master
+
 Q1)Create a dag with following tasks:
 a. Task to create a simple table
 b.Task to insert few custom values in to the created table in previous step.
@@ -27,6 +29,7 @@ a task with python operator that calls a function that generates a random number
 then if the above task passes a message is sent to the slack account saying task passed using the slackwebhook operator and failed if the above task fails
 
 # Amit's Approach
+https://github.com/amitshuklasigmoid/Airflow-Assignment
 
 Q1)Create a dag with following tasks:
 a. Task to create a simple table
